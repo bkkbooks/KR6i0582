@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0582/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說斷溫經
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X01/X01n0019.xml
+    old_id: X01n0019
+hash: sha256:9f9f43e35254a05584bba45bbe12681ee2e7dbedcf061cddf52ee85b94a6c34d

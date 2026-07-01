@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6i0582/x/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 爾時佛在王舍城中與諸大眾俱會阿難長跪合掌白佛言世尊彼南閻浮提世界忽遇天行溫氣瘴烈如猛火橫延及死亡無數如何免之佛告阿難汝可諦聽吾當為汝說此病有鬼神常吐惡毒以害人民初得病時頭痛寒熱百支節俱苦痛畢切阿難言若有善男子善女人能知七鬼神名字作崇敬當除此病患乎為汝即說除病呪曰南無佛陀耶南無達磨耶南無僧伽耶南無觀世音菩薩摩訶薩疫病消除娑婆訶爾時十方諸佛諸大菩薩一切賢聖僧聞我說金剛秘密呪亦說七鬼神名字曰夢多難鬼阿佉尼鬼尼佉尸鬼阿伽那鬼波羅尼鬼阿毗羅鬼婆提梨鬼也汝等當知此神名思念速疾遠離不敢侵害其人所被毒氣普皆消散得金剛密迹其身安樂無諸患難佛說是經已天龍八部一切大眾皆大歡喜信受奉行
+  hash: sha256:8889b9647206f859c2fe2ee85efa614dd9fe2416303db5316ea38991a0558ab7
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: 佛說斷溫經, id: KR6i0582_X_001-juan-start, juan_n: '001', jhead: 佛說斷溫經}
+  - {type: 'cbeta:juan-end', offset: 284, content: 佛說斷溫經, id: KR6i0582_X_001-juan-end, juan_n: '001', jhead: 佛說斷溫經}
+metadata:
+  title: 佛說斷溫經
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X01/X01n0019.xml
+    old_id: X01n0019
+hash: sha256:032f356f3ea8a14b7e1213d583e34ce33baebed081254cf19ce194922ff792a9

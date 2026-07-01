@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR6i0582/v1
+canonical_location: https://kanripo.org/bkk/KR6i0582/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說斷溫經
+  identifiers:
+    alt_id:
+    - X01n0019
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X01/X01n0019.xml
+    old_id: X01n0019
+  edition:
+    short: bkk
+editions:
+- {short: 卍續, label: 卍續, source_xml_id: wit.orig}
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0582_000.yaml, hash: 'sha256:9f9f43e35254a05584bba45bbe12681ee2e7dbedcf061cddf52ee85b94a6c34d'}
+  - {seq: 1, filename: KR6i0582_001.yaml, hash: 'sha256:4570c97fb3e19cc311f7dc1ea7ea501d7c5182653657585df29bbb55c3e1f578'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6i0582_001.markers.yaml, hash: 'sha256:686dc2a93b9d2f0e50a554f7181eeac0ec8735979523df26dc14501e5a0ff067'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0582_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 284
+  label: 佛說斷溫經
+  type: juan
+  level: 1
+hash: sha256:955e8408e657cb0d4c2dddb67c01bc85d1830be8b86024223d997bc8e45899b4
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
