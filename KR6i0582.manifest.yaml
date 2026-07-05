@@ -15,13 +15,16 @@ metadata:
   edition:
     short: bkk
 editions:
-- {short: 卍續, label: 卍續, source_xml_id: wit.orig}
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
 assets:
   parts:
   - {seq: 0, filename: KR6i0582_000.yaml, hash: 'sha256:9f9f43e35254a05584bba45bbe12681ee2e7dbedcf061cddf52ee85b94a6c34d'}
-  - {seq: 1, filename: KR6i0582_001.yaml, hash: 'sha256:4570c97fb3e19cc311f7dc1ea7ea501d7c5182653657585df29bbb55c3e1f578'}
+  - {seq: 1, filename: KR6i0582_001.yaml, hash: 'sha256:032f356f3ea8a14b7e1213d583e34ce33baebed081254cf19ce194922ff792a9'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0582_001.markers.yaml, hash: 'sha256:686dc2a93b9d2f0e50a554f7181eeac0ec8735979523df26dc14501e5a0ff067'}
+  - {seq: 0, role: markers, filename: assets/KR6i0582_000.markers.yaml, hash: 'sha256:eb8d4beab19bfd3387eca8240c5c542974489a9351bff73c62e06aed81f92f38'}
+  - {seq: 1, role: markers, filename: assets/KR6i0582_001.markers.yaml, hash: 'sha256:2404e425564613fe64787074e4714f37ce216ba0712f927fef0763a7cb56c149'}
 table_of_contents:
 - ref:
     seq: 1
@@ -33,7 +36,4 @@ table_of_contents:
   label: 佛說斷溫經
   type: juan
   level: 1
-hash: sha256:955e8408e657cb0d4c2dddb67c01bc85d1830be8b86024223d997bc8e45899b4
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:8b47fbd0ca8597cad727bf2990a6fdd11c422f8aa5b30d9345a12c133b00196d
